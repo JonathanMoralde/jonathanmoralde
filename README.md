@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Timetabling System**
 
-- 🌱 I’m currently learning **Reactjs, Nextjs, ExpressJs, PostgreSQL**
+- 🌱 I’m currently learning **Reactjs, Nextjs, ExpressJs, Typescript, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://jonathanmoralde.vercel.app/](https://jonathanmoralde.vercel.app/)
 
