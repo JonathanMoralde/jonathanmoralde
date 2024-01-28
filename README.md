@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanmoralde&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanmoralde" /> </p>
 
-- 🔭 I’m currently working on **Timetabling System** and **NFC: Tag Reader App**
+- 🔭 I’m currently working on **NFC: Tag Reader App** and **Todo Calendar V3**
 
-- 🌱 I’m currently learning **Reactjs, Nextjs, ExpressJs, Typescript, PostgreSQL**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://jonathanmoralde.vercel.app/](https://jonathanmoralde.vercel.app/)
 
