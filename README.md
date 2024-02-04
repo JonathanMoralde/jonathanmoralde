@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **NFC: Tag Reader App** and **Todo Calendar V3**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js** and **Express.js**
 
 - 👨‍💻 All of my projects are available at [https://jonathanmoralde.vercel.app/](https://jonathanmoralde.vercel.app/)
 
