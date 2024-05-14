@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanmoralde&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanmoralde" /> </p>
 
-- 🔭 I’m currently working on **BUPAD** and **Timetabling System**
+- 🔭 I’m currently working on **UniBond** and **Class Timetabling System**
 
-- 🌱 I’m currently learning **Vue.js**, **Quasar** and **PHP**
+- 🌱 I’m currently learning **Flutter**, **Vue.js**, **Quasar** and **PHP(OOP)**
 
 - 👨‍💻 All of my projects are available at [https://jonathanmoralde.vercel.app/](https://jonathanmoralde.vercel.app/)
 
