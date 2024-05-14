@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jonathanmoralde.vercel.app/](https://jonathanmoralde.vercel.app/)
 
-- 📫 How to reach me **jonathanhernandez.moralde@bicol-u.edu.ph**
+- 📫 How to reach me **moraldetantan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
