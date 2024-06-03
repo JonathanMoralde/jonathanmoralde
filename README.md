@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**, **Vue.js**, **Quasar** and **PHP(OOP)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JonathanMoralde?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/JonathanMoralde?tab=repositories
 
 - 📫 How to reach me **moraldetantan@gmail.com**
 
