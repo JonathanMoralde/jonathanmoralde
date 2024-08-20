@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanmoralde&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanmoralde" /> </p>
 
-- 🔭 I’m currently working on **UniBond** and **Class Timetabling System**
+- 🔭 I’m currently working on **Lingkod**
 
-- 🌱 I’m currently learning **Flutter**, **Vue.js**, **Quasar** and **PHP(OOP)**
+- 🌱 I’m currently learning **Flutter**, **Nextjs**, and **Nodejs(Express)**
 
 - 👨‍💻 All of my projects are available at https://github.com/JonathanMoralde?tab=repositories
 
