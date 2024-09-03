@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/JonathanMoralde?tab=repositories
 
+- 💻 Visit my portfolio page at https://jonathanmoralde.vercel.app/
+
 - 📫 How to reach me **jonathanhernandez.moralde@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
