@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanmoralde&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanmoralde" /> </p>
 
-- 🔭 I’m currently working on **Linkod**
+- 🔭 I’m currently working on **Document Request System**
 
-- 🌱 I’m currently learning **React**, **Nextjs**, and **Nodejs(Express)**
+- 🌱 I’m currently learning **React**, **Angular**, **Laravel**, and **Nodejs(Express)**
 
 - 👨‍💻 All of my projects are available at https://github.com/JonathanMoralde?tab=repositories
 
