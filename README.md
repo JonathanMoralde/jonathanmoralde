@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/JonathanMoralde?tab=repositories
 
-- 📫 How to reach me **moraldetantan@gmail.com**
+- 📫 How to reach me **jonathanhernandez.moralde@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
