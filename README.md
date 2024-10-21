@@ -6,7 +6,7 @@
 
 <!-- 🔭 I’m currently working on **Document Request System** -->
 
-- 🌱 I’m currently learning **Nextjs**, **Typescript** , **Wordpress**, **Laravel**, and **Nodejs**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 All of my projects are available at https://github.com/JonathanMoralde?tab=repositories
 
