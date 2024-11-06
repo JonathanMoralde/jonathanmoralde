@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">A passionate Software Developer from Philippines</h3>
+<h3 align="center">A passionate Fullstack Developer from Philippines</h3>
 <img align="right" alt="Coding" width="300" height="300" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanmoralde&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanmoralde" /> </p>
